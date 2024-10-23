@@ -1,3 +1,0 @@
-/home/vadim/repository/Logical_expressions_and_branches/build/CMakeFiles/logical_expressions_and_branches.dir
-/home/vadim/repository/Logical_expressions_and_branches/build/CMakeFiles/edit_cache.dir
-/home/vadim/repository/Logical_expressions_and_branches/build/CMakeFiles/rebuild_cache.dir
